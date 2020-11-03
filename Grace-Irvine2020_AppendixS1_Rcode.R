@@ -1,6 +1,6 @@
 ##### Appendix S1 - All subsets regression
 
-fire.dat <- read.csv("AppendixS1_data.csv")
+fire.dat <- read.csv("Grace-Irvine2020_AppendixS1_data.csv")
 names(fire.dat)
 
 
