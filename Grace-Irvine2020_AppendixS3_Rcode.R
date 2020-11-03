@@ -5,7 +5,7 @@
 ##############################################################################
 library(piecewiseSEM)
 
-fdat <- read.csv("AppendixS1_data.csv")
+fdat <- read.csv("Grace-Irvine2020_AppendixS1_data.csv")
 
 # model 1
 pw.mod1 <- psem(lm(vegcover ~ firesev + age + elev, data=fdat), 
