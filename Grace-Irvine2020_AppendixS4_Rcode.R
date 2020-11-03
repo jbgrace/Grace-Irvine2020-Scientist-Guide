@@ -1,6 +1,6 @@
 ### APPENDIX_S4 - WHALEN SEAGRASS FOODWEB EXPERIMENTAL RESULTS
 
-dat <- read.csv("AppendixS4_data.csv")
+dat <- read.csv("Grace-Irvine2020_AppendixS4_data.csv")
 names(dat)
 attach(dat)
 
