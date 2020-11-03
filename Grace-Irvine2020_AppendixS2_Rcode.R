@@ -5,7 +5,7 @@
 library(lavaan)
 
 # Read data
-fdat <- read.csv("AppendixS1_data.csv")
+fdat <- read.csv("Grace-Irvine2020_AppendixS1_data.csv")
 names(fdat)
 
 ##### Set of models in Figure S1 of Appendix_S2
